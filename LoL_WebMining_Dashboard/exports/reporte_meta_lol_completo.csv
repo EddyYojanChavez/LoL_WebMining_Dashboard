@@ -1,0 +1,51 @@
+"Campeon","Rol_Principal","WinRate","PickRate","Counter_Principal","Runa_Clave","Tier","Score_Sentimiento","Indice_Dominancia"
+"Jinx","Bot",52,15.8,"Draven","Lethal Tempo","S+",0.1,77.65
+"Garen","Top",52.1,11,"Camille","Grasp of the Undying","S+",0.1,68.79
+"Kai'Sa","Bot",50.8,16.2,"Caitlyn","Lethal Tempo","S+",0.1,67.3
+"Ornn","Top",51.8,4.8,"Shen","Grasp","A",0.75,65.53
+"Jhin","Bot",51.2,13.4,"Twitch","Dark Harvest","S+",0.1,65.31
+"Malphite","Top",52.5,7.3,"Sylas","Grasp","S",0.1,64.96
+"Leona","Support",51.7,10.2,"Morgana","Aftershock","S+",0.1,63.43
+"Lux","Mid",51.1,11.8,"Yasuo","First Strike","S",0.15,62.05
+"Ashe","Bot",51.5,10.2,"Tristana","Lethal Tempo","A",0.1,61.57
+"Ahri","Mid",51.4,10.4,"Lissandra","Electrocute","S+",0.1,61.05
+"Nautilus","Support",51.2,11,"Sona","Aftershock","S",0.1,60.41
+"Vayne","Bot",51.6,8.9,"Caitlyn","Lethal Tempo","S",0.1,59.85
+"Thresh","Support",50.8,12.5,"Morgana","Glacial Augment","S+",0.1,59.75
+"Jarvan IV","Jungle",51.4,8.9,"Lillia","Conqueror","S",0.1,57.99
+"Caitlyn","Bot",50.2,14.1,"Jhin","Fleet Footwork","S",0.1,57.44
+"Blitzcrank","Support",51.1,9.8,"Sivir","Glacial Augment","S",0.1,57.03
+"Kha'Zix","Jungle",50.9,10.1,"Elise","First Strike","S+",0.1,55.79
+"Ezreal","Bot",49,18.5,"Draven","Press the Attack","S",0.1,55.25
+"Senna","Support",51,9.1,"Xayah","Fleet Footwork","A",0.1,54.68
+"Kassadin","Mid",51.9,4.9,"Lucian","First Strike","A",0.1,54.48
+"Fiora","Top",51.2,7.8,"Jax","Conqueror","A",0.1,53.88
+"Nunu","Jungle",52,4.1,"Truandle","Phase Rush","A",0.1,53.77
+"Shaco","Jungle",51.5,6.2,"Rengar","Hail of Blades","A",0.1,53.41
+"Jax","Top",51,8.1,"Garen","Lethal Tempo","S",0.1,52.63
+"Nami","Support",50.9,8.1,"Yasuo","Summon Aery","A",0.1,51.7
+"Darius","Top",50.8,8.5,"Quinn","Conqueror","S+",0.1,51.59
+"Viego","Jungle",50.1,11.5,"Rammus","Conqueror","S+",0.1,51.2
+"Draven","Bot",51.3,5.8,"Varus","Lethal Tempo","B",0.1,50.73
+"Lulu","Support",50.4,9.4,"Blitzcrank","Summon Aery","A",0.1,49.71
+"Morgana","Support",50.5,8.8,"Zyra","Arcane Comet","A",0.1,49.41
+"Samira","Bot",50.7,7.5,"Nilah","Conqueror","A",0.1,48.62
+"Orianna","Mid",50.7,7.1,"Anivia","Summon Aery","S",0.1,47.8
+"Yone","Mid",49.1,14,"Renekton","Lethal Tempo","S+",0.1,47
+"Hecarim","Jungle",50.6,7,"Warwick","Conqueror","A",0.1,46.67
+"Syndra","Mid",50.5,6.8,"Fizz","First Strike","A",0.1,45.33
+"Graves","Jungle",49.8,9.8,"Rek'Sai","Fleet Footwork","A",0.1,44.94
+"Lee Sin","Jungle",48.7,14.2,"Poppy","Conqueror","S",0.1,43.69
+"Yasuo","Mid",48.8,13.5,"Pantheon","Lethal Tempo","S",0.1,43.19
+"Camille","Top",50.4,5.9,"Jax","Grasp","A",0.1,42.56
+"Aatrox","Top",49.5,9.2,"Fiora","Conqueror","S",0.1,40.93
+"Vektor","Mid",50.3,5.2,"Syndra","First Strike","A",0.1,40.2
+"Kayn","Jungle",49.3,9.5,"Fiddlesticks","Conqueror","A",0.1,39.68
+"Lucian","Bot",49.4,9,"Lucian","Press the Attack","A",0.1,39.59
+"Pyke","Support",49.6,7.9,"Soraka","Hail of Blades","B",0.1,39.2
+"Elise","Jungle",50.2,3.8,"Jarvan IV","Electrocute","B",0.1,36.42
+"Sion","Top",49.8,4.2,"Gwen","Grasp","B",0.1,33.51
+"Zed","Mid",49.2,12.1,"Malzahar","First Strike","S+",-0.58,31.3
+"Renekton","Top",48.9,6.4,"Illaoi","Conqueror","B",0.1,29.63
+"LeBlanc","Mid",48.5,5.5,"Galio","Electrocute","B",0.1,24.07
+"Yuumi","Support",48.2,6.5,"Leona","Summon Aery","C",-0.85,5.51

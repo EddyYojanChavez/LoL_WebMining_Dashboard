@@ -1,0 +1,178 @@
+2026-10-28 21:31:03 - Usuario abrió el Dashboard interactivo. 
+2026-10-28 21:34:14 - Iniciando web scraping de la Wiki: https://wiki.leagueoflegends.com/en-us/League_of_Legends_Wiki 
+2026-10-28 21:34:16 - ERROR en web scraping de la Wiki: no se puede abrir la conexión 
+2026-10-28 21:34:16 - Iniciando proceso de extracción / consulta a Riot API (Estructura analítica). 
+2026-10-28 21:34:16 - ERROR al procesar datos de Riot API: no se puede abrir la conexión 
+2026-10-28 21:35:09 - Iniciando web scraping de la Wiki: https://wiki.leagueoflegends.com/en-us/League_of_Legends_Wiki 
+2026-10-28 21:35:10 - ERROR en web scraping de la Wiki: no se puede abrir la conexión 
+2026-10-28 21:35:10 - Iniciando proceso de extracción / consulta a Riot API (Estructura analítica). 
+2026-10-28 21:35:10 - ERROR al procesar datos de Riot API: no se puede abrir la conexión 
+2026-10-28 21:35:18 - Iniciando web scraping de la Wiki: https://wiki.leagueoflegends.com/en-us/League_of_Legends_Wiki 
+2026-10-28 21:35:19 - ERROR en web scraping de la Wiki: no se puede abrir la conexión 
+2026-10-28 21:35:19 - Iniciando proceso de extracción / consulta a Riot API (Estructura analítica). 
+2026-10-28 21:35:19 - ERROR al procesar datos de Riot API: no se puede abrir la conexión 
+2026-10-28 21:35:49 - Iniciando web scraping de la Wiki: https://wiki.leagueoflegends.com/en-us/League_of_Legends_Wiki 
+2026-10-28 21:35:50 - ERROR en web scraping de la Wiki: no se puede abrir la conexión 
+2026-10-28 21:35:50 - Iniciando proceso de extracción / consulta a Riot API (Estructura analítica). 
+2026-10-28 21:35:50 - ERROR al procesar datos de Riot API: no se puede abrir la conexión 
+2026-10-28 21:36:11 - Iniciando web scraping de la Wiki: https://wiki.leagueoflegends.com/en-us/League_of_Legends_Wiki 
+2026-10-28 21:36:11 - ERROR en web scraping de la Wiki: no se puede abrir la conexión 
+2026-10-28 21:36:11 - Iniciando proceso de extracción / consulta a Riot API (Estructura analítica). 
+2026-10-28 21:36:11 - ERROR al procesar datos de Riot API: no se puede abrir la conexión 
+2026-10-28 21:38:31 - Iniciando web scraping de la Wiki: https://wiki.leagueoflegends.com/en-us/League_of_Legends_Wiki 
+2026-10-28 21:38:31 - ÉXITO: Web scraping de la Wiki completado y guardado en data/raw/wiki_sections.csv 
+2026-10-28 21:38:31 - Iniciando proceso de extracción / consulta a Riot API (Estructura analítica). 
+2026-10-28 21:38:31 - ÉXITO: Datos de campeones procesados y guardados en data/processed/campeones_stats.rds 
+2026-10-28 21:38:47 - Iniciando web scraping de la Wiki: https://wiki.leagueoflegends.com/en-us/League_of_Legends_Wiki 
+2026-10-28 21:38:47 - ÉXITO: Web scraping de la Wiki completado y guardado en data/raw/wiki_sections.csv 
+2026-10-28 21:38:47 - Iniciando proceso de extracción / consulta a Riot API (Estructura analítica). 
+2026-10-28 21:38:47 - ÉXITO: Datos de campeones procesados y guardados en data/processed/campeones_stats.rds 
+2026-10-28 21:40:18 - Usuario abrió y cargó el Dashboard interactivo en Shiny. 
+2026-10-28 21:40:35 - Usuario abrió y cargó el Dashboard interactivo en Shiny. 
+2026-10-28 21:42:49 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-28 21:42:49 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-28 21:43:21 - Sesión activa en el Dashboard. 
+2026-10-28 21:43:28 - Sesión activa en el Dashboard. 
+2026-10-28 21:44:25 - Iniciando web scraping de la Wiki: https://wiki.leagueoflegends.com/en-us/League_of_Legends_Wiki 
+2026-10-28 21:44:26 - ÉXITO: Web scraping de la Wiki completado y guardado en data/raw/wiki_sections.csv 
+2026-10-28 21:44:26 - Iniciando proceso de extracción / consulta a Riot API (Estructura analítica). 
+2026-10-28 21:44:26 - ÉXITO: Datos de campeones procesados y guardados en data/processed/campeones_stats.rds 
+2026-10-28 21:44:34 - Iniciando web scraping de la Wiki: https://wiki.leagueoflegends.com/en-us/League_of_Legends_Wiki 
+2026-10-28 21:44:35 - ÉXITO: Web scraping de la Wiki completado y guardado en data/raw/wiki_sections.csv 
+2026-10-28 21:44:35 - Iniciando proceso de extracción / consulta a Riot API (Estructura analítica). 
+2026-10-28 21:44:35 - ÉXITO: Datos de campeones procesados y guardados en data/processed/campeones_stats.rds 
+2026-10-28 21:46:00 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 21:46:00 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = case_when(...)`. 
+2026-10-28 21:46:44 - Sesión activa en el Dashboard. 
+2026-10-28 21:46:50 - Sesión activa en el Dashboard. 
+2026-10-28 21:49:01 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 21:49:01 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = case_when(...)`. 
+2026-10-28 21:49:08 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 21:49:09 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = case_when(...)`. 
+2026-10-28 21:49:29 - Sesión activa en el Dashboard. 
+2026-10-28 21:49:39 - Sesión activa en el Dashboard. 
+2026-10-28 21:52:15 - Sesión activa en el Dashboard. 
+2026-10-28 21:52:23 - Sesión activa en el Dashboard. 
+2026-10-28 21:52:54 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 21:52:54 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = case_when(...)`. 
+2026-10-28 21:53:05 - Sesión activa en el Dashboard. 
+2026-10-28 21:53:10 - Sesión activa en el Dashboard. 
+2026-10-28 21:54:21 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 21:54:21 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = case_when(...)`. 
+2026-10-28 21:54:32 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-28 21:54:32 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-28 21:55:15 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 21:55:16 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = case_when(...)`. 
+2026-10-28 21:55:35 - Sesión activa en el Dashboard. 
+2026-10-28 21:55:53 - Sesión activa en el Dashboard. 
+2026-10-28 21:57:52 - Sesión activa en el Dashboard. 
+2026-10-28 21:58:12 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-28 21:58:12 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-28 21:58:19 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 21:58:19 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = case_when(...)`. 
+2026-10-28 21:58:27 - Sesión activa en el Dashboard. 
+2026-10-28 21:58:34 - Sesión activa en el Dashboard. 
+2026-10-28 21:59:11 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-28 21:59:11 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-28 21:59:23 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 21:59:23 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = case_when(...)`. 
+2026-10-28 21:59:37 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-28 21:59:37 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-28 21:59:40 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 21:59:40 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = case_when(...)`. 
+2026-10-28 21:59:41 - Sesión activa en el Dashboard. 
+2026-10-28 22:00:11 - Sesión activa en el Dashboard. 
+2026-10-28 22:01:52 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 22:01:52 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = as.numeric(...)`. 
+2026-10-28 22:02:01 - Iniciando análisis de sentimientos sobre opiniones y comentarios de campeones. 
+2026-10-28 22:02:01 - ERROR en análisis de sentimientos: In argument: `Score_Sentimiento = as.numeric(...)`. 
+2026-10-28 22:02:12 - Sesión activa en el Dashboard. 
+2026-10-28 22:02:19 - Sesión activa en el Dashboard. 
+2026-10-28 22:03:09 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:11 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:11 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:11 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:12 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:12 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:12 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:13 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:13 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:14 - Sesión activa en el Dashboard. 
+2026-10-28 22:03:18 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:19 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:20 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:21 - Actualización manual realizada por el usuario. 
+2026-10-28 22:03:22 - Actualización manual realizada por el usuario. 
+2026-10-28 22:10:59 - Iniciando procesamiento de análisis de sentimientos. 
+2026-10-28 22:10:59 - ÉXITO: Análisis de sentimientos guardado en data/processed/sentimientos_campeones.rds 
+2026-10-28 22:11:02 - Iniciando procesamiento de análisis de sentimientos. 
+2026-10-28 22:11:03 - ÉXITO: Análisis de sentimientos guardado en data/processed/sentimientos_campeones.rds 
+2026-10-28 22:11:17 - Iniciando procesamiento de análisis de sentimientos. 
+2026-10-28 22:11:17 - ÉXITO: Análisis de sentimientos guardado en data/processed/sentimientos_campeones.rds 
+2026-10-28 22:11:47 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-28 22:11:47 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-28 22:11:47 - Iniciando procesamiento de análisis de sentimientos. 
+2026-10-28 22:11:47 - ÉXITO: Análisis de sentimientos guardado en data/processed/sentimientos_campeones.rds 
+2026-10-28 22:11:48 - Sesión activa en el Dashboard. 
+2026-10-28 22:11:58 - Sesión activa en el Dashboard. 
+2026-10-29 13:14:27 - Sesión activa en el Dashboard. 
+2026-10-29 13:23:33 - Iniciando cálculo de analítica avanzada y modelo multicriterio en R/04_analytics.R. 
+2026-10-29 13:23:33 - ÉXITO: Ranking de dominancia multicriterio generado y guardado correctamente. 
+2026-10-29 13:25:12 - Sesión activa en el Dashboard. 
+2026-10-29 13:25:25 - Sesión activa en el Dashboard. 
+2026-10-29 13:27:50 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-29 13:27:50 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-29 13:28:56 - Iniciando procesamiento de análisis de sentimientos. 
+2026-10-29 13:28:56 - ÉXITO: Análisis de sentimientos guardado en data/processed/sentimientos_campeones.rds 
+2026-10-29 13:29:48 - Iniciando cálculo de analítica avanzada y modelo multicriterio en R/04_analytics.R. 
+2026-10-29 13:29:48 - ÉXITO: Ranking de dominancia multicriterio generado y guardado correctamente. 
+2026-10-29 13:30:02 - Sesión activa en el Dashboard. 
+2026-10-29 13:30:10 - Sesión activa en el Dashboard. 
+2026-10-29 13:30:52 - Actualización manual realizada por el usuario. 
+2026-10-29 13:35:56 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-29 13:35:56 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-29 13:35:56 - Iniciando procesamiento de análisis de sentimientos. 
+2026-10-29 13:35:56 - ÉXITO: Análisis de sentimientos guardado en data/processed/sentimientos_campeones.rds 
+2026-10-29 13:36:01 - Iniciando cálculo de analítica avanzada y modelo multicriterio en R/04_analytics.R. 
+2026-10-29 13:36:01 - ÉXITO: Ranking de dominancia multicriterio generado y guardado correctamente. 
+2026-10-29 13:36:07 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-29 13:36:07 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-29 13:36:07 - Iniciando procesamiento de análisis de sentimientos. 
+2026-10-29 13:36:07 - ÉXITO: Análisis de sentimientos guardado en data/processed/sentimientos_campeones.rds 
+2026-10-29 13:36:07 - Iniciando cálculo de analítica avanzada y modelo multicriterio en R/04_analytics.R. 
+2026-10-29 13:36:07 - ÉXITO: Ranking de dominancia multicriterio generado y guardado correctamente. 
+2026-10-29 13:36:08 - Sesión activa en el Dashboard. 
+2026-10-29 13:36:17 - Sesión activa en el Dashboard. 
+2026-10-29 13:39:34 - Generando archivo CSV consolidado para exportación. 
+2026-10-29 13:39:34 - ÉXITO: Reporte CSV exportado en exports/reporte_meta_lol_completo.csv 
+2026-10-29 13:39:51 - Generando archivo CSV consolidado para exportación. 
+2026-10-29 13:39:51 - ÉXITO: Reporte CSV exportado en exports/reporte_meta_lol_completo.csv 
+2026-10-29 13:39:53 - Generando dataset completo del Meta de League of Legends (Campeones, Counters, Runas). 
+2026-10-29 13:39:53 - ÉXITO: Dataset completo de campeones guardado en data/processed/campeones_meta_completo.rds 
+2026-10-29 13:39:53 - Iniciando procesamiento de análisis de sentimientos. 
+2026-10-29 13:39:53 - ÉXITO: Análisis de sentimientos guardado en data/processed/sentimientos_campeones.rds 
+2026-10-29 13:39:53 - Iniciando cálculo de analítica avanzada y modelo multicriterio en R/04_analytics.R. 
+2026-10-29 13:39:53 - ÉXITO: Ranking de dominancia multicriterio generado y guardado correctamente. 
+2026-10-29 13:39:53 - Generando archivo CSV consolidado para exportación. 
+2026-10-29 13:39:53 - ÉXITO: Reporte CSV exportado en exports/reporte_meta_lol_completo.csv 
+2026-10-29 13:39:53 - Sesión activa en el Dashboard. 
+2026-10-29 13:39:59 - Sesión activa en el Dashboard. 
+2026-10-29 13:40:16 - Descarga de reporte CSV iniciada por el usuario. 
+2026-10-29 13:42:59 - Iniciando proceso de minería web (Web Scraping) de la Wiki de LoL. 
+2026-10-29 13:42:59 - Conectando a la fuente: https://wiki.leagueoflegends.com/en-us/List_of_champions 
+2026-10-29 13:43:01 - ÉXITO: Datos crudos guardados en data/raw/wiki_sections.csv 
+2026-10-29 13:43:01 - ÉXITO: Dataset completo de 50 campeones por carril y rol generado y guardado en data/processed/ 
+2026-10-29 13:43:06 - Iniciando proceso de minería web (Web Scraping) de la Wiki de LoL. 
+2026-10-29 13:43:06 - Conectando a la fuente: https://wiki.leagueoflegends.com/en-us/List_of_champions 
+2026-10-29 13:43:07 - ÉXITO: Datos crudos guardados en data/raw/wiki_sections.csv 
+2026-10-29 13:43:07 - ÉXITO: Dataset completo de 50 campeones por carril y rol generado y guardado en data/processed/ 
+2026-10-29 13:43:27 - Sesión activa en el Dashboard. 
+2026-10-29 13:43:32 - Sesión activa en el Dashboard. 
+2026-10-29 13:46:51 - Iniciando minería web desde el enlace: https://wiki.leagueoflegends.com/en-us/List_of_champions 
+2026-10-29 13:46:52 - ÉXITO: Datos crudos descargados y guardados en data/raw/wiki_sections.csv 
+2026-10-29 13:46:52 - ÉXITO: Dataset procesado generado a partir de la minería web real. 
+2026-10-29 13:47:02 - Iniciando minería web desde el enlace: https://wiki.leagueoflegends.com/en-us/List_of_champions 
+2026-10-29 13:47:03 - ÉXITO: Datos crudos descargados y guardados en data/raw/wiki_sections.csv 
+2026-10-29 13:47:03 - ÉXITO: Dataset procesado generado a partir de la minería web real. 
+2026-10-29 13:47:17 - Sesión activa en el Dashboard. 
+2026-10-29 13:47:22 - Sesión activa en el Dashboard. 
